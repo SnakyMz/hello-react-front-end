@@ -32,6 +32,7 @@
 # 📖 About the Project <a name="about-project"></a>
 
 **hello-react-front-end** is a website that fetches data from the backend.
+[Link to backend repository](https://github.com/SnakyMz/hello-rails-back-end)
 
 ## 🛠 Built With <a name="built-with"></a>
 
